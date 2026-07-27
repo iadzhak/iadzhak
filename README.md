@@ -34,4 +34,5 @@ Python Backend Developer (Junior). Делаю REST API и асинхронные
 
 ## Статистика GitHub
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=iadzhak&show_icons=true&theme=radical)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=iadzhak)](https://github.com/iadzhak/github-readme-stats)
+
