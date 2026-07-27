@@ -11,7 +11,7 @@ Python Backend Developer (Junior). Делаю REST API и асинхронные
 ![Django](https://img.shields.io/badge/Django-4.x-blue?style=flat&logo=django)
 ![DRF](https://img.shields.io/badge/DRF-3.x-blue?style=flat)
 ![FastAPI](https://img.shields.io/badge/FastAPI-0.110+-blue?style=flat&logo=fastapi)
-![FastStream](https://img.shields.io/badge/FastStream-0.40+-blue?style=flat&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmc+PGNpcmNsZSBjeD0iNDUiIGN5PSI0NSIgcj0iNDAiIGZpbGw9IiNmZmZmZmYiLz48dGV4dCB4PSI0NSIgYHg9IjQ1IiB5PSI1MiIgdGV4dC1hbmNob3I9Im1pZGRsZSIgZm9udC1mYW1pbHk9InZlcmRhbmEgYm9sZCIgZm9udC1zaXplPSI0MCIgZmlsbD0iIzAwMDAwMCI+Rkw8L3RleHQ+PC9zdmc+)
+![FastStream](https://img.shields.io/badge/FastStream-0.40+-blue?style=flat)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-15-blue?style=flat&logo=postgresql)
 ![Redis](https://img.shields.io/badge/Redis-7.x-blue?style=flat&logo=redis)
 ![Docker](https://img.shields.io/badge/Docker-24-blue?style=flat&logo=docker)
