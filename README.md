@@ -28,7 +28,9 @@ Python Backend Developer (Junior). Делаю REST API и асинхронные
 - Обратный прокси и маршрутизация через Traefik: entrypoints, middleware, динамические правила.
 
 ## Проекты
-- **[Арбитражный сканер](https://github.com/iadzhak-arb)** — агрегация биржевых данных, фильтрация связок по марже и стаканам цен, уведомления, разграничение прав по подписке, фронтенд на React + TypeScript + MUI.
+- **[Арбитражный сканер](https://github.com/iadzhak-arb)** — арбитражный сканер в микросервисной архитектуре.  
+Стек: FastStream (сбор/расчёт), Django DRF (API), React + TS + MUI (фронтенд).  
+Возможности: агрегация биржевых стаканов, фильтрация по марже/объёмам, уведомления, ролевая модель и подписки.
 - **[Foodgram: REST API + инфраструктура](https://github.com/iadzhak/foodgram)** — Django DRF, PostgreSQL, 4‑контейнерная сборка, Traefik вместо Nginx, CI/CD через GitHub Actions, деплой на удалённый сервер.
 
 
