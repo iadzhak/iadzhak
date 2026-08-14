@@ -30,7 +30,8 @@ Python Backend Developer (Junior). Делаю REST API и асинхронные
 ## Проекты
 - **[Арбитражный сканер](https://github.com/iadzhak-arb)** — арбитражный сканер в микросервисной архитектуре.  
 Стек: FastStream (сбор/расчёт), FastAPI (API), React + TS + MUI (фронтенд).  
-Возможности: агрегация биржевых стаканов, поиск по фильтрам и просмотр истории арбитражных связок.
+Возможности: агрегация биржевых стаканов, поиск по фильтрам и просмотр истории арбитражных связок.   
+[![Live](https://img.shields.io/badge/Live-arbcrypto.ru-brightgreen)](https://arbcrypto.ru) 
 - **[Foodgram: REST API + инфраструктура](https://github.com/iadzhak/foodgram)** — Django DRF, PostgreSQL, 4‑контейнерная сборка, обратный прокси Traefik, CI/CD через GitHub Actions, деплой на удалённый сервер.
 
 
